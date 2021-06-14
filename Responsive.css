@@ -1,0 +1,204 @@
+@media(min-width:320px){
+   .banner-contents > img{
+      width:200px;
+      height:200px;
+   }
+   .About{
+   padding:15px;
+}
+.a-img{
+   padding:30px;
+}
+.services{
+   padding:15px;
+}
+.service-container{
+   padding:40px 20px;
+}
+.c{
+   padding:30px 20px;
+   height:500px;
+}
+.portfolio{
+   padding:15px;
+}
+.portfolio-container{
+   padding:40px 14px;
+}
+.news{
+   padding:15px;
+}
+.news-container{
+   padding:40px 10px;
+}
+.contact{
+   padding:15px;
+}
+.contact-container{
+   padding:40px 10px;
+}
+}
+@media (min-width:576px){
+  .banner-contents > img{
+      width:380px;
+      height:380px;
+   }
+ .About{
+   padding:20px;
+ 
+}
+.a-img{
+   padding:35px;
+}
+.services{
+   padding:20px;
+}
+.service-container{
+ 
+   padding:40px 5px;
+}
+.c{
+   padding:30px 20px;
+   height:550px;
+}
+.portfolio{
+   padding:20px;
+}
+.portfolio-container{
+  
+   padding:45px 16px;
+}
+.news{
+   padding:20px;
+}
+.news-container{
+   padding:40px 12px;
+}
+.contact{
+   padding:20px;
+}
+.contact-container{
+   padding:42px 50px;
+}
+}
+@media(min-width:768px){
+     .banner-contents > img{
+      width:500px;
+      height:500px;
+   }
+    .About{
+   padding:28px;
+}
+.a-img{
+   padding:80px;
+}
+.services{
+   padding:28px;
+}
+.service-container{
+   padding:40px 40px;
+}
+.c{
+   padding:30px 30px;
+   height:580px;
+}
+.portfolio{
+   padding:28px;
+}
+.portfolio-container{
+   padding:48px 18px;
+}
+.news{
+   padding:28px;
+}
+.news-container{
+   padding:42px 14px;
+}
+.contact{
+   padding:28px;
+}
+.contact-container{
+   padding:44px 70px;
+}
+}
+@media(min-width:992px){
+    .banner-contents > img{
+      width:570px;
+      height:570px;
+   }
+   .About{
+   padding:35px;
+}
+.a-img{
+   padding:84px;
+}
+.services{
+   padding:35px;
+}
+.service-container{
+   padding:40px 45px;
+}
+.c{
+   padding:40px 30px;
+   height:600px;
+}
+.portfolio{
+   padding:35px;
+}
+.portfolio-container{
+   padding:50px 20px;
+}
+.news{
+   padding:35px;
+}
+.news-container{
+   padding:44px 15px;
+}
+.contact{
+   padding:35px;
+}
+.contact-container{
+   padding:45px 80px;
+}
+}
+@media(min-width:1200px){
+    .banner-contents > img{
+      width:600px;
+      height:600px;
+   }
+   .About{
+   padding:40px;
+}
+.a-img{
+   padding:86px
+}
+.services{
+   padding:40px;
+}
+.service-container{
+   background-color:#E4F1F6;
+   padding:40px 50px;
+}
+.c{
+   padding:40px 30px;
+   height:610px;
+}
+.portfolio{
+   padding:40px;
+}
+.portfolio-container{
+   padding:53px 20px;
+}
+.news{
+   padding:40px;
+}
+.news-container{
+   padding:50px 20px;
+}
+.contact{
+   padding:40px;
+}
+.contact-container{
+   padding:48px 90px;
+}
+}
