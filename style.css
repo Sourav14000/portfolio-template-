@@ -119,3 +119,14 @@ html{
 .form-group label{
    font-weight:bold;
 }
+/* 8.footer */
+.fa-facebook,.fa-twitter-square,.fa-google-plus-square,.fa-instagram{
+   font-size:30px;
+   padding:4px;
+   background:#171822;
+   margin:4px;
+}
+.footer > p{
+   padding:12px;
+   margin:5px;
+}
